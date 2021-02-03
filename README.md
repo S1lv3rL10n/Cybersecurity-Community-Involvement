@@ -10,9 +10,9 @@
 
 ### **GRIMMCon 0x2 - Inciting the Imagination - How we can help students see their future in cybersecurity**
 
-### **Blacks in Cybersecurity S3CRETCON2020 - You belong at the Table - Finding your voice in cybersecurity**
-
 ### **Blacks in Cybersecurity S3CRETCON2020 - Black Men in Cyber Panel 3.0**
+
+### **Blacks in Cybersecurity Winter Conference 2021 You Belong at the Table - Finding Your Voice in Cybersecurity**
 
 ## Con Attendence/Involvement
 
