@@ -12,7 +12,13 @@
 
 ### **Blacks in Cybersecurity S3CRETCON2020 - Black Men in Cyber Panel 3.0**
 
-### **Blacks in Cybersecurity Winter Conference 2021 You Belong at the Table - Finding Your Voice in Cybersecurity**
+## 2021 - Speaker
+
+## **Blacks in Cyber Winter Conference 2021 - You Belong at the Table - finding your voice in cybersecurity**
+
+## **14th Annual 2021 Central OHIO ISSA Infosec Summit - How it started. How its going. Diversity in cyber: the action presentation**
+
+## **14th Annual 2021 Central OHIO ISSA Infosec Summit - The Invisible Ranking | Internal Barriers to Advancing in the Tech Space Panel**
 
 ## Con Attendence/Involvement
 
