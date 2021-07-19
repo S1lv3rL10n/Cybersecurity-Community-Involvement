@@ -20,14 +20,14 @@
 
 ## **14th Annual 2021 Central OHIO ISSA Infosec Summit - The Invisible Ranking | Internal Barriers to Advancing in the Tech Space Panel**
 
-## **Def Con 29 - The Action Plan for Cyber Diversity**
+## **DEF CON 29 - The Action Plan for Cyber Diversity**
 
 ## Con Attendence/Involvement
 
 * B Sides Cincinnati 2018 - Attendee
 * DerbyCon 2018 - Attendee
 * Black Hat USA 2019 - Attendee
-* Def Con 27 - Human
+* DEF CON 27 - Human
 * B Sides Knoxville 2020 - Attendee
 * B Sides Atlanta 2020 - Attendee
 * GRIMMCon 2020 - Attendee
@@ -37,8 +37,8 @@
 * B Sides San Antonio 2020 - Attendee
 * Circle City Con 7.0 - Speaker
 * INTERAlliance Summer Camp - Judge
-* Def Con 28 - Human Plus
+* DEF CON 28 - Human Plus
 * UniCon - Attendee
 * BIPOC Cybersecurity Forum: From Inclusion to Equity Webcast - Attendee
 * Black Hat USA 2021 - Attendee
-* Def Con 29 - Speaker
+* DEF CON 29 - Speaker
