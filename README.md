@@ -16,11 +16,15 @@
 
 ## **Blacks in Cyber Winter Conference 2021 - You Belong at the Table - finding your voice in cybersecurity**
 
+## **Teen Science Cafe : Careers in Cybersecurity**
+
 ## **14th Annual 2021 Central OHIO ISSA Infosec Summit - How it started. How its going. Diversity in cyber: the action presentation**
 
 ## **14th Annual 2021 Central OHIO ISSA Infosec Summit - The Invisible Ranking | Internal Barriers to Advancing in the Tech Space Panel**
 
 ## **DEF CON 29 - The Action Plan for Cyber Diversity**
+
+## **9th Annual SecureWorld Rockies Virtual Conference - Reasoning and Analysis in Incident Response**
 
 ## Con Attendence/Involvement
 
@@ -36,9 +40,14 @@
 * B Sides Tel Aviv 2020 - Attendee
 * B Sides San Antonio 2020 - Attendee
 * Circle City Con 7.0 - Speaker
+* SANS DFIR Summit - Attendee
 * INTERAlliance Summer Camp - Judge
 * DEF CON 28 - Human Plus
 * UniCon - Attendee
-* BIPOC Cybersecurity Forum: From Inclusion to Equity Webcast - Attendee
+* SANS BIPOC Cybersecurity Forum: From Inclusion to Equity Webcast - Attendee
+* SANS Cyber Threat Intelligence Summit - Attendee
+* SANS ICS Security Summit - Attendee
 * Black Hat USA 2021 - Attendee
 * DEF CON 29 - Speaker
+* SANS Cybersecurity Leadership Summit - Attendee
+* CYBERWARCON - Attendee
