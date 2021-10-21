@@ -50,4 +50,8 @@
 * Black Hat USA 2021 - Attendee
 * DEF CON 29 - Speaker
 * SANS Cybersecurity Leadership Summit - Attendee
+* Layer 8 Conference Attendee
+* Texas Cyber Summit - Attendee
+* AfroTech Conference
 * CYBERWARCON - Attendee
+* 9th Annual SecureWorld Rockies Virtual Conference - Speaker
