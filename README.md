@@ -26,9 +26,10 @@
 
 ## **9th Annual SecureWorld Rockies Virtual Conference - Developing Diverse Analysis in Cybersecurity**
 
-## Con Attendence/Involvement
+## Other Con Attendence/Involvement
 
 * B Sides Cincinnati 2018 - Attendee
+* ComSpark Innovation and Technology Summit - Attendee
 * DerbyCon 2018 - Attendee
 * SecureWorld Cincinnati 2019
 * Black Hat USA 2019 - Attendee
@@ -37,23 +38,17 @@
 * B Sides Atlanta 2020 - Attendee
 * GRIMMCon 2020 - Attendee
 * PancakesCon 2020: Quarantine Edition - Attendee
-* Blacks in Cyber Virtual Conference 2020 - Speaker
 * B Sides Tel Aviv 2020 - Attendee
 * B Sides San Antonio 2020 - Attendee
-* Circle City Con 7.0 - Speaker
 * SANS DFIR Summit - Attendee
 * INTERAlliance Summer Camp - Judge
 * DEF CON 28 - Human Plus
-* UniCon - Attendee
-* Blacks in Cyber Winter Conference 2021 - Speaker
 * SANS BIPOC Cybersecurity Forum: From Inclusion to Equity Webcast - Attendee
 * SANS Cyber Threat Intelligence Summit - Attendee
 * SANS ICS Security Summit - Attendee
 * Black Hat USA 2021 - Attendee
-* DEF CON 29 - Speaker
 * SANS Cybersecurity Leadership Summit - Attendee
 * Layer 8 Conference Attendee
 * Texas Cyber Summit - Attendee
 * AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
-* 9th Annual SecureWorld Rockies Virtual Conference - Speaker
