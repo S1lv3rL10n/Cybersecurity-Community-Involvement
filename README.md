@@ -24,12 +24,13 @@
 
 ## **DEF CON 29 - The Action Plan for Cyber Diversity**
 
-## **9th Annual SecureWorld Rockies Virtual Conference - Reasoning and Analysis in Incident Response**
+## **9th Annual SecureWorld Rockies Virtual Conference - Developing Diverse Analysis in Cybersecurity**
 
 ## Con Attendence/Involvement
 
 * B Sides Cincinnati 2018 - Attendee
 * DerbyCon 2018 - Attendee
+* SecureWorld Cincinnati 2019
 * Black Hat USA 2019 - Attendee
 * DEF CON 27 - Human
 * B Sides Knoxville 2020 - Attendee
@@ -44,6 +45,7 @@
 * INTERAlliance Summer Camp - Judge
 * DEF CON 28 - Human Plus
 * UniCon - Attendee
+* Blacks in Cyber Winter Conference 2021 - Speaker
 * SANS BIPOC Cybersecurity Forum: From Inclusion to Equity Webcast - Attendee
 * SANS Cyber Threat Intelligence Summit - Attendee
 * SANS ICS Security Summit - Attendee
@@ -52,6 +54,6 @@
 * SANS Cybersecurity Leadership Summit - Attendee
 * Layer 8 Conference Attendee
 * Texas Cyber Summit - Attendee
-* AfroTech Conference
+* AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
 * 9th Annual SecureWorld Rockies Virtual Conference - Speaker
