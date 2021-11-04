@@ -32,6 +32,7 @@
 * ComSpark Innovation and Technology Summit - Attendee
 * DerbyCon 2018 - Attendee
 * SecureWorld Cincinnati 2019
+* CircleCityCon 6.0 - Attendee
 * Black Hat USA 2019 - Attendee
 * DEF CON 27 - Human
 * B Sides Knoxville 2020 - Attendee
