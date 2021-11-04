@@ -6,7 +6,7 @@
 
 ## **Blacks in Cybersecurity Virtual Conference - Inciting the Imagination - How we can help students see their future in cybersecurity**
 
-## **Circle City Con 7.0 - Creating APT Targeted Threat Feeds For Your Industry**
+## **CircleCityCon 7.0 - Creating APT Targeted Threat Feeds For Your Industry**
 
 ## **GRIMMCon 0x2 - Inciting the Imagination - How we can help students see their future in cybersecurity**
 
