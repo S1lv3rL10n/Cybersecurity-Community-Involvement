@@ -26,6 +26,8 @@
 
 ## **9th Annual SecureWorld Rockies Virtual Conference - Developing Diverse Analysis in Cybersecurity**
 
+## 2022 - Speaker
+
 ## Other Con Attendence/Involvement
 
 * B Sides Cincinnati 2018 - Attendee
@@ -53,3 +55,8 @@
 * Texas Cyber Summit - Attendee
 * AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
+
+## Publications/Articles
+
+* https://www.secureworld.io/industry-news/incident-response-bias?utm_content=188027281&utm_medium=social&utm_source=linkedin&hss_channel=lcp-106644
+* https://www.bankinfosecurity.com/ny-ag-credential-stuffing-attacks-hit-11-million-accounts-a-18246
