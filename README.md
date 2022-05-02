@@ -28,7 +28,7 @@
 
 ## 2022 - Speaker
 
-## **15th Annual 2022 Central OHIO ISSA Infosec Summit - Leadership Series: I’m intelling on you
+## 15th Annual 2022 Central OHIO ISSA Infosec Summit - Leadership Series: I’m intelling on you
 
 ## Other Con Attendence/Involvement
 
