@@ -30,6 +30,10 @@
 
 ## 15th Annual 2022 Central OHIO ISSA Infosec Summit - Leadership Series: I’m intelling on you
 
+## 2023 - Speaker
+
+## ** DEF CON 31 - Career Workshop: New Career Seekers in Cybersecurity**
+
 ## Other Con Attendence/Involvement
 
 * B Sides Cincinnati 2018 - Attendee
@@ -57,6 +61,7 @@
 * Texas Cyber Summit - Attendee
 * AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
+* B Sides Dayton 2022 - Attendee
 
 ## Publications/Articles
 
