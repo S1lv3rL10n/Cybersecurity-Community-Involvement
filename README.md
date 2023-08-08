@@ -32,7 +32,7 @@
 
 ## 2023 - Speaker
 
-## ** DEF CON 31 - Career Workshop: New Career Seekers in Cybersecurity**
+## **DEF CON 31 - Career Workshop: New Career Seekers in Cybersecurity**
 
 ## Other Con Attendence/Involvement
 
