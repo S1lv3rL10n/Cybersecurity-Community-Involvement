@@ -63,6 +63,10 @@
 * CYBERWARCON - Attendee
 * B Sides Dayton 2022 - Attendee
 
+## Teaching
+
+* Dayton Equity - Certified in Cybersecurity Course (2023-)
+
 ## Publications/Articles
 
 * https://www.secureworld.io/industry-news/incident-response-bias?utm_content=188027281&utm_medium=social&utm_source=linkedin&hss_channel=lcp-106644
