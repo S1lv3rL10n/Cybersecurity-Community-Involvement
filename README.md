@@ -34,6 +34,12 @@
 
 ## **DEF CON 31 - Career Workshop: New Career Seekers in Cybersecurity**
 
+## 2024 - Speaker
+
+## **Columbus AI Week - Panelist
+
+## **Cincy Cyber Week - Key Note Speaker, Panelist
+
 ## Other Con Attendence/Involvement
 
 * B Sides Cincinnati 2018 - Attendee
@@ -62,10 +68,12 @@
 * AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
 * B Sides Dayton 2022 - Attendee
+* Cincy AI Week
 
 ## Teaching
 
-* Dayton Equity - Certified in Cybersecurity Course (2023-)
+* Dayton Equity - Certified in Cybersecurity Course (2023)
+* Dayton Equity - Google Cybersecurity Certificate Course (2024)
 
 ## Publications/Articles
 
