@@ -63,7 +63,7 @@
 * SANS ICS Security Summit - Attendee
 * Black Hat USA 2021 - Attendee
 * SANS Cybersecurity Leadership Summit - Attendee
-* Layer 8 Conference Attendee
+* Layer 8 Conference - Attendee
 * Texas Cyber Summit - Attendee
 * AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
