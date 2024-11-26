@@ -68,7 +68,7 @@
 * AfroTech Conference - Attendee
 * CYBERWARCON - Attendee
 * B Sides Dayton 2022 - Attendee
-* Cincy AI Week
+* Cincy AI Week - Attendee
 
 ## Teaching
 
