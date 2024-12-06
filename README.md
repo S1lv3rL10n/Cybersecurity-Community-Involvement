@@ -36,9 +36,9 @@
 
 ## 2024 - Speaker
 
-## **Columbus AI Week - Panelist
+## **Columbus AI Week - Panelist**
 
-## **Cincy Cyber Week - Key Note Speaker, Panelist
+## **Cincy Cyber Week - Key Note Speaker, Panelist**
 
 ## Other Con Attendence/Involvement
 
